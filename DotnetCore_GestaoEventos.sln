@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoEventos.Portal.Web", "DotnetCore_GestaoEventos\GestaoEventos.Portal.Web.csproj", "{CEEA6D3E-C131-457C-8C00-2D71727E42D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEEA6D3E-C131-457C-8C00-2D71727E42D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEA6D3E-C131-457C-8C00-2D71727E42D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEA6D3E-C131-457C-8C00-2D71727E42D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEA6D3E-C131-457C-8C00-2D71727E42D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35A16853-949F-40CC-942E-F247A8795AD6}
+	EndGlobalSection
+EndGlobal

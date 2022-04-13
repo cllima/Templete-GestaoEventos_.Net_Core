@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GestaoEventos.Portal.Web
+build_property.RootNamespace = GestaoEventos.Portal.Web
+build_property.ProjectDir = C:\ASP.NET CORE\ProjetoFinal28-03-22\DotnetCore_GestaoEventos\DotnetCore_GestaoEventos\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\ASP.NET CORE\ProjetoFinal28-03-22\DotnetCore_GestaoEventos\DotnetCore_GestaoEventos
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/ASP.NET CORE/ProjetoFinal28-03-22/DotnetCore_GestaoEventos/DotnetCore_GestaoEventos/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET CORE/ProjetoFinal28-03-22/DotnetCore_GestaoEventos/DotnetCore_GestaoEventos/Views/Eventos/Alterar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xBbHRlcmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET CORE/ProjetoFinal28-03-22/DotnetCore_GestaoEventos/DotnetCore_GestaoEventos/Views/Eventos/IncluirEvento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xJbmNsdWlyRXZlbnRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET CORE/ProjetoFinal28-03-22/DotnetCore_GestaoEventos/DotnetCore_GestaoEventos/Views/Eventos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET CORE/ProjetoFinal28-03-22/DotnetCore_GestaoEventos/DotnetCore_GestaoEventos/Views/Eventos/ListarEventos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xMaXN0YXJFdmVudG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET CORE/ProjetoFinal28-03-22/DotnetCore_GestaoEventos/DotnetCore_GestaoEventos/Views/Eventos/Remover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xSZW1vdmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET CORE/ProjetoFinal28-03-22/DotnetCore_GestaoEventos/DotnetCore_GestaoEventos/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET CORE/ProjetoFinal28-03-22/DotnetCore_GestaoEventos/DotnetCore_GestaoEventos/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET CORE/ProjetoFinal28-03-22/DotnetCore_GestaoEventos/DotnetCore_GestaoEventos/Views/Participantes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljaXBhbnRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET CORE/ProjetoFinal28-03-22/DotnetCore_GestaoEventos/DotnetCore_GestaoEventos/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET CORE/ProjetoFinal28-03-22/DotnetCore_GestaoEventos/DotnetCore_GestaoEventos/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET CORE/ProjetoFinal28-03-22/DotnetCore_GestaoEventos/DotnetCore_GestaoEventos/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET CORE/ProjetoFinal28-03-22/DotnetCore_GestaoEventos/DotnetCore_GestaoEventos/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET CORE/ProjetoFinal28-03-22/DotnetCore_GestaoEventos/DotnetCore_GestaoEventos/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET CORE/ProjetoFinal28-03-22/DotnetCore_GestaoEventos/DotnetCore_GestaoEventos/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gxy6bgcvdo

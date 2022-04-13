@@ -1,0 +1,54 @@
+﻿@model IEnumerable<GestaoEventos.Portal.Web.Models.Evento>
+
+@{
+    ViewData["Title"] = "ListarEventos";
+}
+
+<h1>Lista de Eventos</h1>
+
+<p>
+        <a asp-action="IncluirEvento"class="btn btn-outline-primary" >Incluir Novo Evento</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Local)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Preco)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Data)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Local)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Preco)
+            </td>
+            <td>
+                @Html.ActionLink("Alterar", "Alterar",new { id=item.Id }) |
+                @Html.ActionLink("Remover", "Remover",new { id=item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
